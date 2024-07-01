@@ -12,6 +12,7 @@ public class Ex8 {
 			
 			if(i % 2 == 0) { //짝수는 스킵
 				continue;
+				//특정 조건에서 건너뛰어야 할때 사용할 것
 			}
 			sum = sum + i; //홀수면 sum에 더하기
 			
